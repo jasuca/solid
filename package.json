@@ -1,0 +1,23 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "Solid – Productive and actionable meetings, every time.",
+  "main": "index.js",
+  "author": "Jacob Sunol <contact@jasuca.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://solid.wisembly.com",
+    "serviceName": "solid",
+    "message": "Run effective and easy meetings with Solid. Get the meeting agenda, tasks & decisions instantly in your mailbox.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
